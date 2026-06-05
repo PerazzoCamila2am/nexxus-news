@@ -131,3 +131,21 @@
         font-size: 3rem;
     }
 }
+
+@media (max-width: 768px) {
+  .subscription-container {
+    padding: 25px 18px;
+  }
+
+  .subscription-container h2 {
+    font-size: 26px;
+  }
+
+  .form-group {
+    width: 100%;
+  }
+
+  .submit-container button {
+    width: 100%;
+  }
+}
